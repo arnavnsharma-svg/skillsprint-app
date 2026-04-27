@@ -1,16 +1,20 @@
-# skillsprint
+# SkillSprint 🚀
 
-A new Flutter project.
+SkillSprint is a developer-focused micro-gig platform that replaces traditional resumes with a SkillScore system.
 
-## Getting Started
+## Features
+- SkillScore Dashboard
+- Micro-Gig Marketplace
+- 7-Day Sprint System
+- Escrow Wallet
+- Proof-of-Work Portfolio
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+(Add your app screenshots here)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
+(Add video link if available)
