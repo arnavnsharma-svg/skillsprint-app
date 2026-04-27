@@ -20,5 +20,4 @@ SkillSprint is a developer-focused micro-gig platform that replaces traditional 
 <img width="676" height="1435" alt="image" src="https://github.com/user-attachments/assets/01a43c4d-ab3d-4143-9ec4-389d0a1b6442" />
 <img width="680" height="1437" alt="image" src="https://github.com/user-attachments/assets/9714b4f7-c41a-48ae-9fd3-c31ade8a82ae" />
 
-## Demo
-(Add video link if available)
+
